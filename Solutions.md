@@ -8,3 +8,4 @@
 | p3 | b | ls |
 | p4 | b | mkdir foo |
 | p5 | i | mkdir --parents foo/bar/1/2/3 | 
+| p6 | i | rm -r foo|
